@@ -80,13 +80,11 @@
 
 ##  🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Yashkapure06&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
 <table>
 <tr>
   <td align="center">
   <p align="center">
-    <a href="https://github.comYashkapure06">
+    <a href="https://github.com/buildpowerwebs">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashkapure06&show_icons=true&theme=radical&locale=en&layout=compact"/>
     </a>
     </td>
