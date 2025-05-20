@@ -99,11 +99,8 @@
 
 
 <p align="left">
-<img height="140" width="140" src="https://github.com/Yashkapure06/Yashkapure06/blob/main/PNG/left.png">
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashkapure06&theme=radical&hide_border=false"/>
-
-<img height="140" width="140" src="https://github.com/Yashkapure06/Yashkapure06/blob/main/PNG/right.png">
 
 </p>
                                                                                                         
