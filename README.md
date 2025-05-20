@@ -69,23 +69,4 @@
 </div>
 
 
-##  🏆 GitHub Trophies
-
-<table>
-<tr>
-  <td align="center">
-  <p align="center">
-    <a href="https://github.com/buildpowerwebs">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supercoder&show_icons=true&theme=radical&locale=en&layout=compact"/>
-    </a>
-    </td>
-<!--     <td align="center"> -->
-<!--     <a href="https://github.com/Yashkapure06"> -->
-<!--      ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkapure06&show_icons=true&theme=radical&locale=en) -->
-<!--       <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=yashkapure06&show_icons=true&theme=radical&locale=en"/> -->
-<!--     </a> -->
-  </p>
- </tr>
-</table>
-
                                                                                                         
