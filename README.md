@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm SuperCoder</h1>
 <h3 align="center">A Senior Full Stack Web Developer with over 10 years of experience building modern, scalable, and robust web applications.</h3>
 
-<!-- [![@kapureyash's Holopin board](https://holopin.io/api/user/board?user=kapureyash)](https://holopin.io/@kapureyash) -->
-
-
-
-<!-- - 🌱 I’m currently learning **Java, DSA** whenever I get time, + **ReactNative** -->
-
-<!-- 👨‍💻 All of my projects are available at [https://yash-kapure.vercel.app/](https://yash-kapure.vercel.app/) -->
-
 <!-- - 💬 Ask me about **Frontend Web Development, ReactJs, NextJs, CSS, MaterialUI, Python** -->
 
-<!-- - 📫 How to reach me **yashkapure06@gmail.com** -->
+<!-- - 📫 How to reach me **buildpowerwebs01@gmail.com** -->
 
-<!-- 📄 Know about my experiences [My Portfolio](https://yash-kapure.vercel.app/)-->
 
 <!-- - ⚡ Fun fact **I love to Learn New Thing and Technologies** -->
 
@@ -85,7 +76,7 @@
   <td align="center">
   <p align="center">
     <a href="https://github.com/buildpowerwebs">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashkapure06&show_icons=true&theme=radical&locale=en&layout=compact"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supercoder&show_icons=true&theme=radical&locale=en&layout=compact"/>
     </a>
     </td>
 <!--     <td align="center"> -->
@@ -97,10 +88,4 @@
  </tr>
 </table>
 
-
-<p align="left">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashkapure06&theme=radical&hide_border=false"/>
-
-</p>
                                                                                                         
