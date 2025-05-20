@@ -78,13 +78,6 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-kapure-9090a01a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-kapure-9090a01a9" height="30" width="40" /></a>
-<a href="https://instagram.com/_yashkapure_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yashkapure_" height="30" width="40" /></a>
-</p>
-
-
 ##  🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Yashkapure06&theme=discord&no-frame=false&no-bg=false&margin-w=4)
